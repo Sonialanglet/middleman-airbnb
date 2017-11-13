@@ -41,11 +41,15 @@ h3 {
 #call-to-action {
 width: 200px;
 border-radius: 5px;
-background-color: rgba(239, 71, 111, 0.8);
+background-color: rgba(239, 71, 111, 1);
   &:hover {
-      background-color: rgba(239, 71, 111, 1);
+      background-color: rgba(239, 71, 111, 0.6);
       }
 
+}
+
+.discret-color {
+  background-color: #7e8d92;
 }
 
 
