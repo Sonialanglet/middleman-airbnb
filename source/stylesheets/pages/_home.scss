@@ -37,3 +37,15 @@ h3 {
 .fa fa-heart {
   color:red;
 }
+
+#call-to-action {
+width: 200px;
+border-radius: 5px;
+background-color: rgba(239, 71, 111, 0.8);
+  &:hover {
+      background-color: rgba(239, 71, 111, 1);
+      }
+
+}
+
+
